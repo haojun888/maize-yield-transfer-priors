@@ -2,7 +2,7 @@
 
 Research code supporting the manuscript **Source domain sensitivity priors for multisource maize yield prediction across regions and years** by Bai Haojun, Department of Geography, Faculty of Social Sciences, The University of Hong Kong.
 
-The full mainline source tree is distributed as github_source_v1.0.0.zip in this repository. Download and unpack it before using the reproducibility commands below; the archive preserves all scientific module paths, entry points and configurations. Root-level files provide the license, citation metadata and data dictionary. Model weights, processed inputs and saved prediction banks are distributed separately. This code-only repository by itself does not contain the assets needed to reproduce numerical results. The archival record and DOI will be linked here when available; no DOI is claimed in this version. Zenodo draft preparation is in progress.
+The full mainline source tree is distributed as github_source_v1.0.0.zip in this repository. Download and unpack it before using the reproducibility commands below; the archive preserves all scientific module paths, entry points and configurations. Root-level files provide the license, citation metadata and data dictionary. Model weights, processed inputs and saved prediction banks are distributed separately. This code-only repository by itself does not contain the assets needed to reproduce numerical results. The full code/model and processed-data archive is published on Zenodo: [Version 1.0.0, DOI 10.5281/zenodo.23383068](https://doi.org/10.5281/zenodo.23383068). Download all seven data ZIPs and restore_large_file.py as described on the record page; one prediction bank is restored by byte concatenation with SHA-256 verification.
 
 ## License
 
@@ -29,4 +29,4 @@ All manuscript target evaluations use frozen source models. Sensitivity indices 
 
 ## Citation and contact
 
-Use CITATION.cff for software authorship metadata. A manuscript or software DOI will be added only after one exists. Contact: Bai Haojun, u3685143@connect.hku.hk.
+Use CITATION.cff for software authorship metadata. The versioned mixed reproducibility archive is DOI 10.5281/zenodo.23383068 (dataset record); it is not a journal-article DOI. Contact: Bai Haojun, u3685143@connect.hku.hk.
