@@ -1,0 +1,49 @@
+# Noncommercial Academic Research Use Terms
+
+**Release-ready local text, version 1.0, 15 October 2026. No public distribution has occurred.**
+
+Copyright © 2026 Bai Haojun (白浩君). Licensing contact: u3685143@connect.hku.hk. Scope: the code files and SHA-256 values listed in COVERED_FILES.csv.
+
+## 1 Covered material
+
+These terms apply only to the author's code expressly identified in the final COVERED_FILES manifest. They do not automatically apply to every file in the repository, data, observations, geographic boundaries, model weights, third-party software, or pre-existing third-party material. Separately licensed material retains its own terms. These terms do not restrict scientific ideas, mathematical methods, facts, or independently developed implementations merely because they address similar problems.
+
+The permission is limited to rights the licensor is entitled to grant. Identifying the author of a paper does not itself establish ownership of every distributed component.
+
+## 2 Permitted academic use
+
+Subject to the conditions below, a recipient may obtain, inspect, copy, execute, and modify the covered code without a license fee for noncommercial academic reproduction, validation, comparison, and scientific research. Recipients may publish their own research findings, including evaluations of the covered code, subject to the separate terms applicable to any data or other material used.
+
+Noncommercial academic use is assessed by the purpose of the activity, not solely by whether the user works at a university. Grant funding, researcher salaries, conference costs, and ordinary academic publication charges do not by themselves make a research activity commercial. A commissioned activity intended primarily to support a business product, service, or commercial development requires separate permission even if performed by an academic institution.
+
+## 3 Commercial permission
+
+The academic permission does not authorize commercial exploitation of the covered code. Commercial activities requiring separate prior written permission include incorporating the covered code into a commercial product or paid service, providing paid implementation or consulting based on it, and using it primarily for a business's operational or commercial research and development purposes.
+
+Commercial permission is not obtained merely by sending an email, citing the work, or paying a publication fee. Contact u3685143@connect.hku.hk and obtain written authorization from the applicable rights holder before starting the activity. No commercial right is granted by silence. Commercial terms may be agreed separately.
+
+## 4 Attribution and research reporting
+
+Keep the applicable copyright, license, authorship, and third-party notices with copies of the covered code. Identify changes clearly and do not present a modified implementation as the author's original release. In scholarly work that uses the covered code, acknowledge Bai Haojun and cite the relevant versioned software record when one exists. No citation to a nonexistent DOI is required, and citation does not replace commercial permission.
+
+Use of the code does not imply endorsement by the author, a data provider, or an affiliated institution. No right to use their names or marks for promotion is granted.
+
+## 5 Redistribution under the same terms
+
+The author has approved including permission for recipients to share the covered code and modifications of that covered code, without charging for access, for the noncommercial academic purposes in Section 2, provided that they preserve these terms and notices, identify changes, and do not add permissions for commercial use of the author's covered code.
+
+This same-terms condition applies to the covered material, not to unrelated components or other material with an independent license. It is not permission to redistribute third-party data or code contrary to their licenses.
+
+## 6 Third-party rights
+
+Recipients must comply independently with the licenses of all third-party components and data. These terms do not remove commercial rights already granted by third-party rights holders and do not permit adding restrictions to material whose license forbids them. Adapted third-party code may be included only where its original terms permit this distribution; the author cannot license third-party rights under these terms.
+
+The release identifies applicable third-party notices and exclusions. An automated similarity screen or successful execution is not a license-compatibility determination.
+
+## 7 No operational assurance
+
+The covered code is research material. The licensor makes no promise that it will meet a recipient's requirements, reproduce results identically on other systems, or be suitable for operational decisions. Recipients remain responsible for validation and use. Any exclusion of warranty or liability operates only to the extent allowed by applicable law; these terms do not purport to exclude obligations that cannot lawfully be excluded.
+
+## 8 Release scope
+
+The rights holder has confirmed the academic-use, commercial-permission, redistribution and ownership policies recorded for this release. This license is intended to accompany an intentional distribution of the covered version. Access to a local review copy does not constitute public distribution. Third-party material and files outside COVERED_FILES.csv remain excluded.

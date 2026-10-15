@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the versioned software record when available; the DOI has not yet been assigned."
+type: software
+title: "Source-domain sensitivity priors for maize yield transfer"
+version: "1.0.0"
+authors:
+  - family-names: "Bai"
+    given-names: "Haojun"
+    affiliation: "Department of Geography, Faculty of Social Sciences, The University of Hong Kong"
+    email: "u3685143@connect.hku.hk"
+abstract: "Mainline implementations for multisource county-level maize yield prediction and evaluation of source-domain fusion priors under regional and joint spatiotemporal transfer. Data and models are distributed separately."
+keywords:
+  - maize yield
+  - domain shift
+  - remote sensing
+  - sensitivity analysis
